@@ -1,3 +1,4 @@
+/* eslint-disable no-shadow */
 export interface ICar {
   id: number,
   name: string,
@@ -22,7 +23,6 @@ export interface IWinner {
   wins: number,
   time: number
 }
-
 
 export enum Sort {
   'id' = 'id',
