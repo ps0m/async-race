@@ -41,7 +41,9 @@ const Track = ({
 
     const { clientWidth } = document.documentElement;
     const clientRect = carRef.current.getBoundingClientRect();
-    const maxDistance = clientWidth - clientRect.left - 1.5 * clientRect.width;
+    const maxDistanceScreen = clientWidth - clientRect.left - 1.5 * clientRect.width;
+    const maxDistanceContainer = 1420;
+    const maxDistance = Math.min(maxDistanceScreen, maxDistanceContainer);
 
     carRef.current.style.cssText = `--from-translate:0; --to-translate:${maxDistance}px;
       animation:slide ${time}s linear 1 forwards`;

@@ -8,6 +8,7 @@ body{
   font-family: "Hachi Maru Pop";
   overflow-x: hidden;
   background-color: #fffafa;
+  margin: 0;
 }
 
 .container{

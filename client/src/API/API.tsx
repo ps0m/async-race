@@ -4,7 +4,7 @@ import {
 
 export const AMOUNT_PER_PAGES = 7;
 export const AMOUNT_PER_WINNERS = 10;
-const urlBase = 'http://127.0.0.1:3000';
+const urlBase = 'https://async.onrender.com';
 const urlGarage = `${urlBase}/garage`;
 const urlWinners = `${urlBase}/winners`;
 const urlEngine = `${urlBase}/engine`;
