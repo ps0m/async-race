@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/async/static/css/main.5ce1334c.css",
-    "main.js": "/async/static/js/main.b3cfaf38.js",
-    "static/js/787.28cb0dcd.chunk.js": "/async/static/js/787.28cb0dcd.chunk.js",
-    "static/media/field.jpg": "/async/static/media/field.4d4cab8ecddf95aeb7d5.jpg",
-    "index.html": "/async/index.html",
-    "main.5ce1334c.css.map": "/async/static/css/main.5ce1334c.css.map",
-    "main.b3cfaf38.js.map": "/async/static/js/main.b3cfaf38.js.map",
-    "787.28cb0dcd.chunk.js.map": "/async/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/async-race/static/css/main.23daee39.css",
+    "main.js": "/async-race/static/js/main.a33dd7fa.js",
+    "static/js/787.28cb0dcd.chunk.js": "/async-race/static/js/787.28cb0dcd.chunk.js",
+    "static/media/field.jpg": "/async-race/static/media/field.4d4cab8ecddf95aeb7d5.jpg",
+    "index.html": "/async-race/index.html",
+    "main.23daee39.css.map": "/async-race/static/css/main.23daee39.css.map",
+    "main.a33dd7fa.js.map": "/async-race/static/js/main.a33dd7fa.js.map",
+    "787.28cb0dcd.chunk.js.map": "/async-race/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5ce1334c.css",
-    "static/js/main.b3cfaf38.js"
+    "static/css/main.23daee39.css",
+    "static/js/main.a33dd7fa.js"
   ]
 }
